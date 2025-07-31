@@ -1,0 +1,16 @@
+{
+  "name": "server-node-socketio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Louis Fernando",
+  "license": "ISC",
+  "description": "This is a Node.js Websocket Server with socket.io library",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "socket.io": "^4.8.1"
+  }
+}

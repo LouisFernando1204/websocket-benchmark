@@ -1,0 +1,15 @@
+{
+  "name": "server-go-coder",
+  "version": "1.0.0",
+  "main": "monitor-process.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Louis Fernando",
+  "license": "ISC",
+  "description": "This is a Golang Websocket Server with coder/websocket library",
+  "dependencies": {
+    "csv-writer": "^1.6.0"
+  }
+}

@@ -1,0 +1,14 @@
+# Mac system files
+.DS_Store
+
+# Node.js dependencies
+**/node_modules/
+
+# Debug & monitoring data
+**/data/
+**/.clinic/
+**/extract-clinic-data.js
+**/monitor-process.js
+
+# Old or backup files
+**/index_old.js
