@@ -1,8 +1,8 @@
-# Comparative Performance Benchmarking of WebSocket Libraries on Node.js and Golang 🚀📊
+# WebSocket Benchmark 🚀📊
 
 ## ✨ Overview
 
-Welcome to **Comparative Performance Benchmarking of WebSocket Libraries on Node.js and Golang**, a comprehensive performance testing and analysis suite designed to evaluate and compare different WebSocket server implementations across various programming languages and libraries. This project provides rigorous benchmarking capabilities for WebSocket servers, measuring critical performance metrics like throughput, latency, connection times, and broadcast efficiency under different load conditions.
+Welcome to **WebSocket Benchmark**, a comprehensive performance testing and analysis suite designed to evaluate and compare different WebSocket server implementations across various programming languages and libraries. This project provides rigorous benchmarking capabilities for WebSocket servers, measuring critical performance metrics like throughput, latency, connection times, and broadcast efficiency under different load conditions.
 
 The suite tests four different WebSocket server implementations using two distinct test scenarios (Echo and Broadcast tests) with varying client loads from 100 to 1000 concurrent connections, providing detailed performance insights for making informed technology decisions.
 
